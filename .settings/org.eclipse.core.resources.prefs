@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 eclipse.preferences.version=1
 encoding/<project>=UTF-8
+=======
+eclipse.preferences.version=1
+encoding//src/util/BeanUtil.java=UTF-8
+encoding/<project>=UTF-8
+>>>>>>> fd1c9b57f2641fb7187776b7d4d04e43650dc49a
